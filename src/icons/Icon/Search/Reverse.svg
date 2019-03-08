@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon - Search Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-527.000000, -784.000000)" fill="#FFFFFF" id="Icon/Header-Nav/Search/White">
+            <g transform="translate(527.000000, 784.000000)">
+                <path d="M15.1562,3.7819 C11.3072,3.7819 8.2192,6.8699 8.2192,10.7309 C8.2192,14.5909 11.3072,17.6789 15.1562,17.6789 C19.0162,17.6789 22.1042,14.5909 22.1042,10.7309 C22.1042,6.8699 19.0162,3.7819 15.1562,3.7819 M15.1562,-0.0001 C21.0642,-0.0001 25.8972,4.8229 25.8972,10.7309 C25.8972,16.6379 21.0642,21.4719 15.1562,21.4719 C12.8852,21.4719 10.7812,20.7449 9.0472,19.5369 L3.2392,25.3329 C2.5012,26.0829 1.2922,26.0829 0.5532,25.3329 C-0.1848,24.5939 -0.1848,23.3969 0.5532,22.6589 L6.3612,16.8509 C5.1412,15.1049 4.4252,13.0019 4.4252,10.7309 C4.4252,4.8229 9.2592,-0.0001 15.1562,-0.0001" id="icon-search"></path>
+            </g>
+        </g>
+    </g>
+</svg>

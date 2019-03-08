@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/Facilities/Accessible/Small</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 14.7817 0 14.7817 16 0 16"></polygon>
+    </defs>
+    <g id="Icon/Facilities/Accessible/Small" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-1" transform="translate(1.000000, 0.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-2"></g>
+            <path d="M11.8657,14.834 L9.9397,9.61 L4.5407,9.609 L4.1297,2.573 C4.0127,2.354 3.7597,1.777 3.7597,1.522 C3.7597,0.684 4.4307,0 5.2557,0 C6.0787,0 6.7507,0.684 6.7507,1.522 C6.7507,2.301 6.1607,2.967 5.4007,3.038 L5.5767,5.336 L9.4987,5.35 L9.5147,6.35 L5.6657,6.417 L5.7557,8.542 L10.9157,8.523 L12.7817,13.083 L14.1487,12.533 L14.7817,13.533 L11.8657,14.834 Z M9.6817,13.269 C8.8627,14.795 7.2937,15.843 5.5527,15.983 C5.4127,15.994 5.2727,16 5.1337,16 C3.9167,16 2.7517,15.571 1.8117,14.772 C0.7637,13.881 0.1267,12.639 0.0147,11.273 C-0.1423,9.315 0.9097,7.354 2.6347,6.395 L2.7487,6.33 L3.0107,7.99 L2.9667,8.022 C2.0067,8.742 1.4697,9.943 1.5687,11.158 C1.6447,12.107 2.0877,12.97 2.8157,13.59 C3.5437,14.209 4.4737,14.507 5.4157,14.43 C7.1877,14.288 8.6287,12.783 8.6927,11.004 L8.7047,10.694 L9.6817,13.269 Z" id="Fill-1" fill="#000000" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>

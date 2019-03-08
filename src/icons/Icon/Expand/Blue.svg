@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="26px" viewBox="0 0 20 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/Expand/Blue</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icon/Expand/Blue" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="20" height="26"></rect>
+        <path d="M10.0000271,6 L3,13 M17,13 L10.0000271,20" id="Path-2" stroke="#003DA5" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M3,13 L17,13" id="Line" stroke="#003DA5" stroke-width="6" opacity="0.5" stroke-linecap="round"></path>
+        <path d="M10,0 L10,6.29423807" id="Path-3" stroke="#003DA5" stroke-width="6"></path>
+        <path d="M10,20 L10,26" id="Path-3-Copy" stroke="#003DA5" stroke-width="6"></path>
+    </g>
+</svg>

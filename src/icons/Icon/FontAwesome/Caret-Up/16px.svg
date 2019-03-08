@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="6px" viewBox="0 0 10 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/FontAwesome/Caret-Up/16px</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="v" transform="translate(-163.000000, -96.000000)" fill="#165C96">
+            <g id="Icon/FontAwesome/Caret-Up/16px" transform="translate(163.000000, 90.000000)">
+                <path d="M8.97321429,10.7410714 C9.08631009,10.8541672 9.14285714,10.9880945 9.14285714,11.1428571 C9.14285714,11.2976198 9.08631009,11.4315471 8.97321429,11.5446429 C8.86011848,11.6577387 8.72619125,11.7142857 8.57142857,11.7142857 L0.571428571,11.7142857 C0.416665893,11.7142857 0.282738661,11.6577387 0.169642857,11.5446429 C0.0565470536,11.4315471 0,11.2976198 0,11.1428571 C0,10.9880945 0.0565470536,10.8541672 0.169642857,10.7410714 L4.16964286,6.74107143 C4.28273866,6.62797563 4.41666589,6.57142857 4.57142857,6.57142857 C4.72619125,6.57142857 4.86011848,6.62797563 4.97321429,6.74107143 L8.97321429,10.7410714 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>

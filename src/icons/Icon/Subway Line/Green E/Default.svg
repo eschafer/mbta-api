@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/Subway Line/Green E/Default</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icon/Subway-Line/Green-E/Default" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-green-line-e-default">
+            <path d="M12.015,0 C5.387583,-1.87739444e-15 0.015,5.372583 0.015,12 C0.015,18.627417 5.387583,24 12.015,24 C18.642417,24 24.015,18.627417 24.015,12 C24.015,5.372583 18.642417,5.73488277e-15 12.015,5.32907052e-15" id="Shape" fill="#00843D" fill-rule="nonzero"></path>
+            <text id="E" fill="#FFFFFF" font-family="HelveticaNeue-CondensedBlack, Helvetica Neue" font-size="29" font-style="condensed" font-weight="700">
+                <tspan x="6.802" y="31.28492">E</tspan>
+            </text>
+            <path d="M12.015,0 C5.387583,-1.87739444e-15 0.015,5.372583 0.015,12 C0.015,18.627417 5.387583,24 12.015,24 C18.642417,24 24.015,18.627417 24.015,12 C24.015,5.372583 18.642417,5.73488277e-15 12.015,5.32907052e-15" id="Shape" fill="#00843D" fill-rule="nonzero"></path>
+            <text id="E" fill="#FFFFFF" font-family="HelveticaNeue-CondensedBlack, Helvetica Neue" font-size="29" font-style="condensed" font-weight="700">
+                <tspan x="6.802" y="31.28492">E</tspan>
+            </text>
+            <path d="M12.015,0 C5.387583,-1.87739444e-15 0.015,5.372583 0.015,12 C0.015,18.627417 5.387583,24 12.015,24 C18.642417,24 24.015,18.627417 24.015,12 C24.015,5.372583 18.642417,5.73488277e-15 12.015,5.32907052e-15" id="Shape" fill="#00843D" fill-rule="nonzero"></path>
+            <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="15.5459 6.931885 15.5459 8.845945 10.0791 8.845945 10.0791 11.064445 15.095705 11.064445 15.095705 12.8335 10.0791 12.8335 10.0791 15.37085 15.661135 15.37085 15.661135 17.28491 7.802735 17.28491 7.802735 6.93191"></polygon>
+        </g>
+    </g>
+</svg>

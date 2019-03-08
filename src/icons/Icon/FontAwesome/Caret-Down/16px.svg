@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="6px" viewBox="0 0 10 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/FontAwesome/Caret-Down/16px</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="v" transform="translate(-143.000000, -98.000000)" fill="#165C96">
+            <g id="Icon/FontAwesome/Caret-Down/16px" transform="translate(143.000000, 92.000000)">
+                <path d="M8.97321429,6.16964286 C9.08631009,6.28273866 9.14285714,6.41666589 9.14285714,6.57142857 C9.14285714,6.72619125 9.08631009,6.86011848 8.97321429,6.97321429 L4.97321429,10.9732143 C4.86011848,11.0863101 4.72619125,11.1428571 4.57142857,11.1428571 C4.41666589,11.1428571 4.28273866,11.0863101 4.16964286,10.9732143 L0.169642857,6.97321429 C0.0565470536,6.86011848 0,6.72619125 0,6.57142857 C0,6.41666589 0.0565470536,6.28273866 0.169642857,6.16964286 C0.282738661,6.05654705 0.416665893,6 0.571428571,6 L8.57142857,6 C8.72619125,6 8.86011848,6.05654705 8.97321429,6.16964286 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>

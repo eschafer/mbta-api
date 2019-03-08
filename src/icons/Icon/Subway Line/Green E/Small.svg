@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/Subway Line/Green E/Small</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icon/Subway-Line/Green-E/Small" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-green-line-e-small" fill-rule="nonzero">
+            <path d="M8,0 C3.581722,-2.705415e-16 5.41083001e-16,3.581722 0,8 C-5.41083001e-16,12.418278 3.581722,16 8,16 C12.418278,16 16,12.418278 16,8 C16,3.581722 12.418278,2.04689834e-15 8,1.77635684e-15" id="Shape" fill="#00843D"></path>
+            <polygon id="Shape" fill="#FFFFFF" points="11.1835 4 11.1835 5.4793 6.959 5.4793 6.959 7.1933 10.8356 7.1933 10.8356 8.5605 6.959 8.5605 6.959 10.5212 11.2733 10.5212 11.2733 12 5.2006 12 5.2006 4"></polygon>
+        </g>
+    </g>
+</svg>

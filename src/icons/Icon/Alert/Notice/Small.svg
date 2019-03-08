@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/Alert/Notice/Small</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icon/Alert/Notice/Small" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sticky-note-solid-(1)" fill="#000000" fill-rule="nonzero">
+            <path d="M11.1428571,10.2857143 L16,10.2857143 L16,0.857142857 C16,0.382142857 15.6178571,0 15.1428571,0 L0.857142857,0 C0.382142857,0 0,0.382142857 0,0.857142857 L0,15.1428571 C0,15.6178571 0.382142857,16 0.857142857,16 L10.2857143,16 L10.2857143,11.1428571 C10.2857143,10.6714286 10.6714286,10.2857143 11.1428571,10.2857143 Z M15.75,12.25 L12.25,15.75 C12.0892857,15.9107143 11.8714286,16 11.6428571,16 L11.4285714,16 L11.4285714,11.4285714 L16,11.4285714 L16,11.6464286 C16,11.8714286 15.9107143,12.0892857 15.75,12.25 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

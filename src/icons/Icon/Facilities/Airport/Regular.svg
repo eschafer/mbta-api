@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/Facilities/Airport/Regular</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icon/Facilities/Airport/Regular" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M10.3998638,1.86915254 C10.3999655,0.140847458 13.0058469,0.140847458 13.0052876,1.9179661 L13.0052876,9.17288136 L23.1646096,15.280678 L23.1646096,17.959322 L13.0541011,14.6338983 L13.0541011,20.0522034 L15.3910503,21.8827119 L15.3910503,24 L11.7849486,22.8833898 L8.17884688,24 L8.17884688,21.8827119 L10.4913892,20.0522034 L10.4913892,14.6338983 L0.386982469,17.959322 L0.386982469,15.280678 L10.3998638,9.17288136 L10.3998638,1.86915254" id="Airport" fill="#000000"></path>
+    </g>
+</svg>

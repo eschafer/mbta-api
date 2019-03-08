@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon - More</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="4.67623041e-06 0 26 0 26 26 4.67623041e-06 26"></polygon>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-363.000000, -784.000000)" id="Icon/Header-Nav/More">
+            <g transform="translate(363.000000, 784.000000)">
+                <g id="Page-1">
+                    <polygon id="Fill-1" fill="#000000" points="21.2929708 7.20617083 4.7071375 7.20617083 4.7071375 11.3244625 10.9411792 11.3244625 10.9411792 21.3902542 15.0589292 21.3902542 15.0589292 11.3244625 21.2929708 11.3244625"></polygon>
+                    <g id="Group-4">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-3"></g>
+                        <path d="M0.0063375,12.5868708 C-0.2244125,20.1192875 5.8807125,26.2249542 13.4131292,25.9936625 C20.2105042,25.7851208 25.7853375,20.2102875 25.9938792,13.4134542 C26.2246292,5.88049583 20.1195042,-0.224629167 12.5865458,0.00612083333 C5.7897125,0.2146625 0.214879167,5.78949583 0.0063375,12.5868708 M12.9998375,1.13712083 C19.8042542,1.13712083 25.2658792,6.85874583 24.8390458,13.7552458 C24.4734208,19.6642875 19.6645042,24.4732042 13.7554625,24.8388292 C6.85842083,25.2656625 1.1373375,19.8040375 1.1373375,13.0001625 C1.1373375,6.44599583 6.44567083,1.13712083 12.9998375,1.13712083" id="Fill-2" fill="#1C1E23" mask="url(#mask-2)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

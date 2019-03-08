@@ -130,6 +130,8 @@ class App extends Component {
 
     // get stops with more than one route
     const stopsWithConnections = [];
+    // TODO: get rid of flat because it's not supported by IE11 (this needs
+    // to be refactored anyway)
     const stops = subwayRoutes.map((route) => route.stops).flat();
     var countedStops = stops.reduce((allStops, stop) => {
       if (stop in allStops) {

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/Facilities/Parking/Regular</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icon/Facilities/Parking/Regular" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-parking-default" fill-rule="nonzero">
+            <path d="M21.3554472,0.00262028859 C21.3554472,0.00262028859 2.68249713,-0.00327536074 2.68845533,0.00262028859 C0.967475974,0.00262028859 0,0.890880729 0,2.70564507 L0,21.4136882 C0,23.1112178 0.8698451,24 2.5894133,24 L21.4092278,24 C23.1287437,24 24,23.1554613 24,21.4136882 L24,2.70564507 C24.0000523,0.935124186 23.1288483,0.00262028859 21.3554472,0.00262028859 Z" id="Shape" fill="#788093"></path>
+            <path d="M13.5252813,3 L5,3 L5,20 L8.87506352,20 L8.87506352,14.4222469 L13.3472958,14.4222469 C16.7318512,14.4222469 20,11.9846063 20,8.72193438 C20,5.81945 17.253176,3 13.5252813,3 Z M13.2802722,11.2908469 L8.92455535,11.2908469 L8.92455535,6.1511625 L13.3296007,6.1511625 C14.8436264,6.1379813 16.1015893,7.28690357 16.1880399,8.76183125 C16.1874955,10.2544313 14.8496915,11.2908469 13.2800544,11.2908469 L13.2802722,11.2908469 Z" id="Shape" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>
