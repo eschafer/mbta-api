@@ -22,6 +22,35 @@ class App extends Component {
     });
   }
 
+  getStops(routes) {
+    // array of stop-route objects
+    const stopRouteCombinations = routes
+      // add route data to each stop
+      .map((route) => {
+        return route.stops.map((stop) => ({
+          ...stop,
+          route: {
+            id: route.id,
+            name: route.name,
+          },
+        }));
+      })
+      .flat();
+
+    // array of stop objects, with routes grouped inside
+    const stops = groupBy(stopRouteCombinations, 'id');
+    const stopsArray = Object.values(stops);
+
+    return stopsArray.map((stop) => ({
+      id: stop[0].id,
+      name: stop[0].name,
+      routes: stop.map((node) => ({
+        id: node.route.id,
+        name: node.route.name,
+      })),
+    }));
+  }
+
   getStopsWithConnections(routes) {
     // array of stop-route objects
     const stopRouteCombinations = routes
@@ -48,7 +77,6 @@ class App extends Component {
         name: node.route.name,
       })),
     }));
-    console.log(stopsWithConnections);
 
     return stopsWithConnections;
   }
@@ -70,6 +98,8 @@ class App extends Component {
     );
     largestRoute = sortedSubwayRoutes[sortedSubwayRoutes.length - 1];
     smallestRoute = sortedSubwayRoutes[0];
+
+    const stops = this.getStops(subwayRoutes);
 
     // get stops with more than one route
     const subwayStopsWithConnections = this.getStopsWithConnections(
@@ -117,16 +147,20 @@ class App extends Component {
           </li>
         </ul>
         <h2>Trip Planner</h2>
-        {/*<select value={this.state.stopA} onChange={this.handleStopAChange}>
-          {stops.map((stop) => (
-            <option value={stop.id}>{stop.name}</option>
-          ))}
+        <select value={this.state.stopA} onChange={this.handleStopAChange}>
+          <Fragment>
+            {stops.map((stop) => (
+              <option value={`option-a-${stop.id}`}>{stop.name}</option>
+            ))}
+          </Fragment>
         </select>
         <select value={this.state.stopB} onChange={this.handleStopBChange}>
-          {stops.map((stop) => (
-            <option value={stop.id}>{stop.name}</option>
-          ))}
-        </select>*/}
+          <Fragment>
+            {stops.map((stop) => (
+              <option value={`option-b-${stop.id}`}>{stop.name}</option>
+            ))}
+          </Fragment>
+        </select>
       </Fragment>
     );
   }
