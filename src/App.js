@@ -1,5 +1,6 @@
 import React, { Component, Fragment } from 'react';
 import RouteIcon from './components/RouteIcon';
+import RouteLabel from './components/RouteLabel';
 import { groupBy } from 'lodash';
 import { getSubwayRoutes } from './api/MbtaApi';
 import './App.css';
@@ -113,8 +114,7 @@ class App extends Component {
         <ul>
           {subwayRoutes.map(({ id, name }) => (
             <li key={`subway-routes-${id}`}>
-              <RouteIcon routeId={id} />
-              <span>{name}</span>
+              <RouteLabel routeId={id}>{name}</RouteLabel>
             </li>
           ))}
         </ul>

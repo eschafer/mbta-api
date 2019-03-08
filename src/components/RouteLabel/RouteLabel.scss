@@ -1,0 +1,23 @@
+@import '../../styles/style-params';
+
+.route-label {
+  @include font-md-lg-body-small();
+  color: $color-white;
+
+  &.blue {
+    background-color: $color-brand-blue-line;
+  }
+  &.green-b,
+  &.green-c,
+  &.green-d,
+  &.green-e {
+    background-color: $color-brand-green-line;
+  }
+  &.mattapan,
+  &.red {
+    background-color: $color-brand-red-line;
+  }
+  &.orange {
+    background-color: $color-brand-orange-line;
+  }
+}
