@@ -10,6 +10,7 @@ import { ReactComponent as IconOrange } from "./img/icon-orange-line-small.svg";
 import { ReactComponent as IconRed } from "./img/icon-red-line-small.svg";
 
 
+
 class App extends Component {
   constructor() {
     super();
@@ -141,7 +142,6 @@ class App extends Component {
     Object.entries(countedStops).forEach(([key, value]) => {
       if (value > 1) stopsWithConnections.push(key);
     });
-    console.log(stopsWithConnections);
     
     // get routes for all stops with connections
     // this should be part of the stuff above...
@@ -161,7 +161,6 @@ class App extends Component {
         }
       });
     });
-    console.log(subwayStopsWithConnections);
 
 
 
@@ -169,7 +168,7 @@ class App extends Component {
       <Fragment>
         <h1>MBTA API</h1>
         {loading && <span>loading...</span>}
-        {!loading &&
+        {!loading && (
           <Fragment>
             <h2>Subway Routes</h2>
             <ul>
@@ -185,26 +184,50 @@ class App extends Component {
               {largestRoute && (
                 <li>
                   Route with the most stops: {largestRoute.name} (
-                {largestRoute.stops.length} stops)
-              </li>
+                  {largestRoute.stops.length} stops)
+                </li>
               )}
               {smallestRoute && (
                 <li>
                   Route with the least stops: {smallestRoute.name} (
-                {smallestRoute.stops.length} stops)
-              </li>
+                  {smallestRoute.stops.length} stops)
+                </li>
               )}
               <li>
                 <span>Stops with connections:</span>
                 <ul>
                   {subwayStopsWithConnections.map(stop => (
-                    <li key={stop.name}>{stop.name} {stop.routes.map((name) => <span className="icon" key={name}>{this.icons[name]}</span>)}</li>
+                    <li key={stop.name}>
+                      {stop.name}{" "}
+                      {stop.routes.map(name => (
+                        <span className="icon" key={name}>
+                          {this.icons[name]}
+                        </span>
+                      ))}
+                    </li>
                   ))}
                 </ul>
               </li>
             </ul>
+            <h2>Trip Planner</h2>
+            <select
+              value={this.state.stopA}
+              onChange={this.handleStopAChange}
+            >
+              {stops.map(stop => (
+                <option value={stop}>{stop}</option>
+              ))}
+            </select>
+            <select
+              value={this.state.stopB}
+              onChange={this.handleStopBChange}
+            >
+              {stops.map(stop => (
+                <option value={stop}>{stop}</option>
+              ))}
+            </select>
           </Fragment>
-        }
+        )}
       </Fragment>
     );
   }
